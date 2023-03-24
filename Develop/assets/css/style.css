@@ -3,7 +3,7 @@
     padding: 0;
     margin: 0;
 }
-
+/*Changed a bunch of colors. Was feeling patriotic.*/
 body {
     background-color: #d9dcd6;
 }
@@ -11,7 +11,7 @@ body {
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    background-color: #2a607c;
+    background-color: #881218d5;
     color: #ffffff;
 }
 
@@ -21,14 +21,14 @@ body {
 }
 
 .header h1 .seo {
-    color: #d9dcd6;
+    color: #4f38b4;
 }
 
 .header div {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif;
     font-size: 20px;
 }
 
@@ -45,9 +45,9 @@ a {
     color: #ffffff;
     text-decoration: none;
 }
-
+/*Slightly increased font size.*/
 p {
-    font-size: 16px;
+    font-size: 18px;
 }
 
 .hero {
@@ -82,8 +82,8 @@ p {
     float: right;
     width: 20%;
     height: 100%;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #2589bd;
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif;
+    background-color: #881218d5;
 }
 
 .benefit-lead {
@@ -133,44 +133,44 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
-
+/*Decreased height of each section*/
 .search-engine-optimization {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
+    margin-bottom: 25px;
+    padding: 50px; color: #881218d5;
+    height: 250px;
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif;
+    background-color: #4f38b4;
     color: #ffffff;
 }
 
 .online-reputation-management {
-    margin-bottom: 20px;
+    margin-bottom: 25px;
     padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
+    height: 250px;
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif;
+    background-color: #881218d5;
     color: #ffffff;
 }
 
 .social-media-marketing {
-    margin-bottom: 20px;
+    margin-bottom: 25px;
     padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
+    height: 250px;
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif;
+    background-color: #4f38b4;
     color: #ffffff;
 }
-
+/*Decreased image sizes slightly*/
 .search-engine-optimization img {
-    max-height: 200px;
+    max-height: 175px;
 }
 
 .online-reputation-management img {
-    max-height: 200px;
+    max-height: 175px;
 }
 
 .social-media-marketing img {
-    max-height: 200px;
+    max-height: 175px;
 }
 
 .search-engine-optimization h2 {
@@ -188,7 +188,7 @@ p {
     font-size: 36px;
 }
 
-.footer {
+.footer1 {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
